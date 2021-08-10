@@ -1,0 +1,216 @@
+seq 1002
+
+real    0m0.552s 
+user    0m0.547s
+sys     0m0.004s
+
+real    0m0.543s
+user    0m0.535s
+sys     0m0.009s
+
+real    0m0.557s
+user    0m0.553s
+sys     0m0.004s
+
+real    0m0.567s
+user    0m0.566s
+sys     0m0.000s
+
+real    0m0.549s
+user    0m0.545s
+sys     0m0.004s
+
+avg     0.5536s
+
+pthread 1002 2
+
+real    0m0.552s
+user    0m0.870s
+sys     0m0.026s
+
+real    0m0.470s
+user    0m0.779s
+sys     0m0.025s
+
+real    0m0.402s
+user    0m0.703s
+sys     0m0.012s
+
+real    0m0.484s
+user    0m0.801s
+sys     0m0.021s
+
+real    0m0.433s
+user    0m0.726s
+sys     0m0.008s
+
+avg     0.4518s
+
+fork 1002 2
+
+real    0m0.313s
+user    0m0.301s
+sys     0m0.013s
+
+real    0m0.308s
+user    0m0.300s
+sys     0m0.008s
+
+real    0m0.345s
+user    0m0.341s
+sys     0m0.004s
+
+real    0m0.458s
+user    0m0.450s
+sys     0m0.008s
+
+real    0m0.493s
+user    0m0.481s
+sys     0m0.012s
+
+avg     0.3834s
+
+seq 3795
+
+real    4m58.206s
+user    4m57.847s
+sys     0m0.045s
+
+real    4m56.768s
+user    4m56.540s
+sys     0m0.036s
+
+real    4m58.815s
+user    4m58.575s
+sys     0m0.037s
+
+real    4m48.761s
+user    4m48.518s
+sys     0m0.024s
+
+real    4m50.532s
+user    4m50.340s
+sys     0m0.004s
+
+avg     294.6164s
+
+pthread 3795
+
+real    2m30.856s
+user    4m53.552s
+sys     0m0.465s
+
+real    2m30.852s
+user    4m53.702s
+sys     0m0.480s
+
+real    2m32.055s
+user    4m55.011s
+sys     0m0.421s
+
+real    2m19.167s
+user    4m31.453s
+sys     0m0.388s
+
+real    2m32.909s
+user    4m57.594s
+sys     0m0.448s
+
+avg     149.1678s
+
+fork 3795
+
+real    2m33.007s
+user    2m32.887s
+sys     0m0.064s
+
+real    2m35.379s
+user    2m35.264s
+sys     0m0.068s
+
+real    2m41.490s
+user    2m41.412s
+sys     0m0.048s
+
+real    2m56.746s
+user    2m56.616s
+sys     0m0.076s
+
+real    2m34.201s
+user    2m34.044s
+sys     0m0.056s
+
+avg     160.1646s
+
+seq 7397
+
+real    19m29.986s
+user    19m29.135s
+sys     0m0.116s
+
+
+real    19m37.305s
+user    19m36.130s
+sys     0m0.224s
+
+real    20m57.838s
+user    20m56.414s
+sys     0m0.144s
+
+real    19m39.463s
+user    19m38.477s
+sys     0m0.148s
+
+real    19m32.539s
+user    19m31.690s
+sys     0m0.136s
+
+avg     1191.4256s
+
+pthread 7397
+
+real    9m45.814s
+user    19m23.275s
+sys     0m0.488s
+
+real    9m48.549s
+user    19m28.127s
+sys     0m0.436s
+
+real    9m47.084s
+user    19m24.824s
+sys     0m0.532s
+
+real    9m45.145s
+user    19m21.749s
+sys     0m0.508s
+
+real    9m45.052s
+user    19m22.021s
+sys     0m0.392s
+
+avg     586.3288s
+
+fork 7397
+
+real    11m3.193s
+user    11m2.896s
+sys     0m0.184s
+
+real    12m44.489s
+user    12m44.133s
+sys     0m0.176s
+
+real    11m52.266s
+user    11m51.825s
+sys     0m0.260s
+
+real    12m23.119s
+user    12m22.800s
+sys     0m0.184s
+
+real    10m43.467s
+user    10m43.158s
+sys     0m0.160s
+
+avg     705.3068s

@@ -1,5 +1,5 @@
 /* gcc initData.c -lm -o initData */
-/* time ./initData ../testcase/pr1002.txt > initData.txt */
+/* time ./initData ../testcase/pr1002.txt > initData.dat */
 /* generate initial city position data */
 
 #include <stdio.h>

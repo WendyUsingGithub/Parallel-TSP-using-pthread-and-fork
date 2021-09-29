@@ -274,8 +274,8 @@ void tsp2opt(int *route, int reverseStart, int reverseEnd)
             tmp = route[i];
             route[i] = route[j];
             route[j] = tmp;
-			i++;
-			j--;
+            i++;
+            j--;
         }
         else {
             break;
